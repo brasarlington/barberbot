@@ -1,0 +1,8 @@
+python-dotenv
+langchain
+langchain-openai
+gspread
+google-auth
+google-api-python-client
+python-telegram-bot
+matplotlib

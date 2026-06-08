@@ -1,0 +1,13 @@
+caso,servicio,fecha,hora,duracion,anticipacion_horas,historial_cliente,historial_confianza,confirmacion_cliente,riesgo_num,riesgo_categoria,accion_racional
+Cliente confiable,corte,2026-06-12,21:00,30,120,0.9,1.0,1.0,0.2,bajo,crear cita normalmente
+Cliente nuevo,corte,2026-06-09,21:00,30,48,0.6,0.0,1.0,0.5,medio,crear cita y enviar recordatorio
+Mal historial,corte,2026-06-09,21:00,30,48,0.25,1.0,1.0,0.3,bajo,crear cita normalmente
+Poca anticipación,corte,2026-06-08,00:00,30,3,0.6,0.4,1.0,0.3,bajo,crear cita normalmente
+Servicio largo,color_cabello,2026-06-09,21:00,90,48,0.6,0.4,1.0,0.5,medio,crear cita y enviar recordatorio
+Largo y mal historial,color_cabello,2026-06-08,09:00,90,12,0.25,1.0,0.7,0.73,alto,pedir doble confirmacion o alertar administrador
+Alta demanda,corte_barba,2026-06-09,03:00,45,30,0.55,0.6,0.7,0.5,medio,crear cita y enviar recordatorio
+Baja confirmación,,2026-06-08,21:00,30,24,0.6,0.2,0.3,0.68,alto,pedir doble confirmacion o alertar administrador
+Buen cliente cita cercana,barba,2026-06-08,02:00,15,5,0.9,1.0,1.0,0.2,bajo,crear cita normalmente
+Mal cliente anticipado,corte,2026-06-12,21:00,30,120,0.25,1.0,1.0,0.2,bajo,crear cita normalmente
+Riesgo medio típico,corte_barba,2026-06-09,00:00,45,27,0.6,0.0,1.0,0.5,medio,crear cita y enviar recordatorio
+Caso crítico,color_cabello,2026-06-07,23:00,90,2,0.2,1.0,0.3,0.85,alto,pedir doble confirmacion o alertar administrador
