@@ -6,7 +6,7 @@ El archivo público del flujo se encuentra en:
 
 
 
-`n8n/barberbot\_workflow\_public.json`
+`n8n/barberbot_workflow_public.json`
 
 
 
@@ -22,21 +22,21 @@ Antes de importar el flujo, se deben reemplazar los siguientes placeholders:
 
 
 
-\- `TELEGRAM\_CREDENTIAL\_HERE`
+\- `TELEGRAM_CREDENTIAL_HERE`
 
-\- `OPENAI\_CREDENTIAL\_HERE`
+\- `OPENAI_CREDENTIAL_HERE`
 
-\- `GOOGLE\_CALENDAR\_CREDENTIAL\_HERE`
+\- `GOOGLE_CALENDAR_CREDENTIAL_HERE`
 
-\- `GOOGLE\_SHEETS\_CREDENTIAL\_HERE`
+\- `GOOGLE_SHEETS_CREDENTIAL_HERE`
 
-\- `CALENDAR\_ID\_HERE`
+\- `CALENDAR_ID_HERE`
 
-\- `GOOGLE\_SHEET\_ID\_HERE`
+\- `GOOGLE_SHEET_ID_HERE`
 
-\- `GOOGLE\_SHEET\_URL\_HERE`
+\- `GOOGLE_SHEET_URL_HERE`
 
-\- `WEBHOOK\_ID\_HERE`
+\- `WEBHOOK_ID_HERE`
 
 
 
@@ -44,5 +44,5 @@ Para más detalle sobre cómo reconstruir el flujo, revisar:
 
 
 
-`docs/n8n\_workflow.md`
+`docs/n8n_workflow.md`
 
